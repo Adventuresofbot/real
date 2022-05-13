@@ -35,3 +35,4 @@ echo Java "$version"
 command="sbt $java_env $@"
 echo $command
 $command
+
